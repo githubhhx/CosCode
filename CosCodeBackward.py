@@ -26,7 +26,9 @@ def backward():
 	y_ = tf.placeholder(tf.float32,[None,CosCodeForward.OUTPUT_NODE], name='y')
 	y = CosCodeForward.forward(x,True,REGULARIZER)
 	global_step = tf.variable(0,trainable=False)
-	
+	'''关于损失函数'''
+	'''分类任务用 交叉熵(cem)等'''
+	'''回归任务用 均方误差(mse)'''
 
 
 
