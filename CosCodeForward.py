@@ -8,7 +8,7 @@ import tensorflow as tf
 
 
 INPUT_SIZE = 32 #输入数据的尺寸
-OUTPUT_NODE = 10 #输出数据的结点
+OUTPUT_NODE = 5 #输出数据的结点
 NUM_CHANNELS = 3 #图像通道
 #------卷积层设定-------
 CONV1_KERNEL_SIZE = 5 #卷积核边长
@@ -20,7 +20,7 @@ FC1_NODES_NUM = 512 #中间层第一层节点数
 #------FORWARD------
 
 def get_weight(shape, regularizer, name):
-	w = tf.Variable(tf.truncated_normal(shape,stddev=0.1),name=name)
+	w = tf.Variable(tf.truncated_normal(shape,stddev=0.1),name=name)# ⬇正则化（的运行函数），加到loss里面一起训练（运行）
 	if regularizer != None: tf.add_to_collection('losses', tf.contrib.layers.l2_regularizer(regularizer)(w))
 	# 添加至正则化
 	return w
