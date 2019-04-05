@@ -6,4 +6,6 @@ Programmed in HNU
     "Now the network is fully enabled to training any type of images."
     "Thanks to LF Huang."
     
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+    
    
