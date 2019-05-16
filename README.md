@@ -2,6 +2,7 @@
 COSCO's first universal CNN network
 Programmed in HNU
 ---------------------
+<img src='https://quotes.values.com/quote_artwork/7293/original/monday_quote.jpg?1432330091' />
 2019/3/23 important update has been committed 
     "Now the network is fully enabled to training any type of images."
     "Thanks to LF Huang."
