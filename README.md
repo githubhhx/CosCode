@@ -1,7 +1,7 @@
 # CosCode
 COSCO's first universal CNN network
 Programmed in HNU
-{{Flagdeco|PRC}}[[UT:TongcyDai|<span style="color:#3399FF;"><span class="nowrap"><strong>_(:з」∠)_</strong></span></span>]] '''[[使用者:coscrispr|Cos Crispr]]'''<sub>--A Citizen of [[中华人民共和国|China PR]]</sub>&#124;•<sup>自由</sup><sub>平等</sub><sup>公正</sup><sub>法治</sub>•2019年8月25日 (日) 13:11 (UTC)
+•<sup>自由</sup><sub>平等</sub><sup>公正</sup><sub>法治</sub>•
 ---------------------
 <img src='https://quotes.values.com/quote_artwork/7293/original/monday_quote.jpg?1432330091' />
 2019/3/23 important update has been committed 
